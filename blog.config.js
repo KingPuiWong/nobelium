@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'Beyond Hello World',
   author: 'Jarvis',
   email: 'kingpuii.wong@gmail.com',
   link: 'https://github.com/KingPuiWong',
